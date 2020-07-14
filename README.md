@@ -50,6 +50,7 @@ In the game of sticks there is a heap of sticks on a board. On their turn, each 
 
 First, create a game where two players can play against each other that always removes 1 or 2 or 3 sticks. In this way the 
 game continues and the player who picks the last stick loses.
+
 2 : Human vs AI
 
 One of the amazing things about computers is that they can learn. We're going to develop an AI that can learn to play the 
@@ -63,6 +64,7 @@ the ball that it had selected from that hat. If the AI loses, it will throw away
 selected from that hat. (Note: A hat must always have at least one ball of each number, hence the last ball of a specific 
 number cannot be thrown away.)As more and more games are played, the good moves will be associated with having many more 
 balls in the hats.
+
 3 : AI vs AI
 
  In the previous part we created an AI that is able to learn from playing against the player. As we play against it, we notice
@@ -71,4 +73,5 @@ balls in the hats.
  an AI, you need to write Java that allows two AIs to battle against each others – say a hundred thousand times 
  (after the training is working, try out different numbers as well!) – and after that the player will be set to play against
  the AI that is ready to battle the player. 
+ 
 //////////////////ASSIGNMENT 4.end()
