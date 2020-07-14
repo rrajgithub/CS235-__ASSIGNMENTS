@@ -26,6 +26,7 @@ Step 7. If the termination criterion is not satisfied, go to Step 4; otherwise, 
 a novel genetic algorithm based on encoding. Appropriate  crossover and mutation operations are designed to generate the next generations. The proposed crossover operator may adopt combination to generate the offspring chromosomes. A repairing mechanism is also adopted to adjust infeasible chromosomes into feasible ones. Several  mutation operators, including two-point swapping, string swapping, and substring swapping, are presented. 
 
 I have defined the constant valriable K,N,M,Y for the tournament selection, population size, maximum marks, genes undergoing mutuation. I have used a fitnessValue() function, chromosomes() function etc. for the various purposes like crossover, mutuation to solve the problem. Also, an array named stud[n] have been used to store the marks of n students.
+
 ///////////////////ASSIGNMENT 3.end()
 
 /////////////////ASSIGNMENT 4.begin()
