@@ -1,0 +1,33 @@
+Welcome to the game of sticks!
+		Options:
+		(1) HUMAN vs HUMAN
+		(2) HUMAN vs AI
+		(3) AI vs AI
+		2
+
+		Player 1: Good luck!
+		AI says 'I, the AI, will hope to defeat you!'
+
+		There are 14 stick(s) on the board
+		Player 1: How many sticks do you take (1-3)? 3
+
+		There are 11 stick(s) on the board
+		3
+		AI selects 3 stick(s).
+
+		There are 8 stick(s) on the board
+		Player 1: How many sticks do you take (1-3)? 2
+
+		There are 6 stick(s) on the board
+		3
+		AI selects 3 stick(s).
+
+		There are 3 stick(s) on the board
+		Player 1: How many sticks do you take (1-3)? 3
+
+		Player 1: You lose.
+		AI: You win!
+
+		AI Thank you!'
+		Do you want to play/play again? 1 = yes, 2 = no.
+		2
